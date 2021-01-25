@@ -19,3 +19,9 @@ Requirements
 Specification
 Design
 etc ...
+
+
+Sprint 0
+- Dependencies
+- Languages
+- etc ..
